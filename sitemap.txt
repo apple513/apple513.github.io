@@ -1,4 +1,0 @@
-http://example.com/posts/4a17b156.html
-http://example.com/posts/f54fd71a.html
-http://example.com/
-http://example.com/tags/%E8%AE%BE%E7%BD%AE/
